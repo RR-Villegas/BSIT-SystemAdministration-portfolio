@@ -57,13 +57,13 @@ During this activity, I also updated my GitHub and LinkedIn profiles to better r
 ![Visual Studio Code](screenshots/vscode.png)
 
 ### VirtualBox
-![VirtualBox](screenshots/virtualbox.png)
+![VirtualBox](screenshots/virtualbox.png) (Omitted due to hardware limitations)
 
 ### Ubuntu Desktop ISO
-![Ubuntu Desktop ISO](screenshots/ubuntu-iso.png)
+![Ubuntu Desktop ISO](screenshots/ubuntu-iso.png) (Omitted due to hardware limitations)
 
 ### Windows 11 Enterprise Evaluation ISO
-![Windows 11 Enterprise Evaluation](screenshots/windows-iso.png)
+![Windows 11 Enterprise Evaluation](screenshots/windows-iso.png) (Omitted due to hardware limitations)
 
 ---
 
