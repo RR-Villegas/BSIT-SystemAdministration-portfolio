@@ -51,7 +51,7 @@ During this activity, I also updated my GitHub and LinkedIn profiles to better r
 ![Git Installation](screenshots/git.png)
 
 ### GitHub Desktop
-![GitHub Desktop](screenshots/github-desktop.png)
+![GitHub Desktop](screenshots/github.png)
 
 ### Visual Studio Code
 ![Visual Studio Code](screenshots/vscode.png)
